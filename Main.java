@@ -12,7 +12,7 @@ public class Main  {
             int c=o.getHumidity();
             String s=o.getClimate();
             int choice=0;
-            System.out.println(" \n\n**** Welcome to Weather Forcasting System ****");     
+            System.out.println(" \n\n**** Welcome to Weather Forecasting System ****");     
             while(choice!=4){
                 System.out.println("----------------------------------------------");
                 System.out.println("Choose your Options \n1. Maximum-Temperature & Minimum-Temperature \n2. Today's weather \n3. humidity \n4.Exit");
